@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>luvy&#39;s Blog</title>
+  <title>Luvy&#39;s Blog</title>
   
-  
+  <subtitle>Stay foolish,Stay hungry</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luvymhq.github.io/"/>
