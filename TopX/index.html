@@ -104,7 +104,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Luvymhq" />
+  <meta name="keywords" content="top,文章阅读量排行榜" />
 
 
 
@@ -122,17 +122,18 @@
 
 
 
-<meta name="description" content="变成更好的自己">
+<meta name="description" content="AV.initialize(&quot;bDsbdwCqACPxn5h6DVxpD3MF-gzGzoHsz&quot;, &quot;f7nK1EAaskqQTQXzDzXyprGI&quot;);    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);   query.notEqualTo(&apos;id&apos;,0);   query.d">
+<meta name="keywords" content="top,文章阅读量排行榜">
 <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="https://luvymhq.github.io/tags/index.html">
+<meta property="og:title" content="TopX">
+<meta property="og:url" content="https://luvymhq.github.io/TopX/index.html">
 <meta property="og:site_name" content="Luvy&#39;s Blog">
-<meta property="og:description" content="变成更好的自己">
+<meta property="og:description" content="AV.initialize(&quot;bDsbdwCqACPxn5h6DVxpD3MF-gzGzoHsz&quot;, &quot;f7nK1EAaskqQTQXzDzXyprGI&quot;);    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);   query.notEqualTo(&apos;id&apos;,0);   query.d">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-02-06T08:15:24.303Z">
+<meta property="og:updated_time" content="2018-02-11T08:11:30.958Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
-<meta name="twitter:description" content="变成更好的自己">
+<meta name="twitter:title" content="TopX">
+<meta name="twitter:description" content="AV.initialize(&quot;bDsbdwCqACPxn5h6DVxpD3MF-gzGzoHsz&quot;, &quot;f7nK1EAaskqQTQXzDzXyprGI&quot;);    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);   query.notEqualTo(&apos;id&apos;,0);   query.d">
 
 
 
@@ -160,7 +161,7 @@
 
 
 
-  <link rel="canonical" href="https://luvymhq.github.io/tags/"/>
+  <link rel="canonical" href="https://luvymhq.github.io/TopX/"/>
 
 
 
@@ -170,7 +171,7 @@
   
 
   
-    tags | Luvy's Blog
+    TopX | Luvy's Blog
   
 </title>
 </head>
@@ -320,7 +321,7 @@
   <div id="posts" class="posts-expand">
   <header class="post-header">
 
-	<h2 class="post-title" itemprop="name headline">tags</h2>
+	<h2 class="post-title" itemprop="name headline">TopX</h2>
 
 
 
@@ -328,14 +329,30 @@
 
     
     
-      <div class="tag-cloud">
-        <div class="tag-cloud-title">
-            目前共计 1 个标签
-        </div>
-        <div class="tag-cloud-tags">
-          <a href="/tags/思维/" style="font-size: 13px; color: #9733ee">思维</a>
-        </div>
-      </div>
+      <p><div id="top"></div></p>
+<script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
+<script>AV.initialize("bDsbdwCqACPxn5h6DVxpD3MF-gzGzoHsz", "f7nK1EAaskqQTQXzDzXyprGI");</script>
+<script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(1000);
+  query.find().then(function (todo) {
+    for (var i=0;i<1000;i++){
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<a href='"+"https://luvymhq.github.io"+url+"'>"+title+"</a>"+"<br />"+"<font color='#555'>"+"阅读次数："+time+"</font>"+"<br /><br />";
+      document.getElementById("top").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
     
   </div>
 
@@ -345,12 +362,6 @@
 
 
           
-  <div class="comments" id="comments">
-    
-      <div id="lv-container" data-id="city" data-uid="MTAyMC8zMjI4My84ODQ3"></div>
-    
-  </div>
-
 
         </div>
         
@@ -654,10 +665,6 @@
 
   
 
-  
-      <!-- UY BEGIN -->
-      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="></script>
-      <!-- UY END -->
   
 
 
