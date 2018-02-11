@@ -1907,7 +1907,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2ac961;
+  background: #ff8859;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3195,24 +3195,5 @@ h2.about-title {
     border-bottom: none;
     position: relative;
     z-index: 1024;
-  }
-}
-@media (max-width: 767px) {
-  .site-title {
-    font-size: 70px !important;
-    letter-spacing: 0px !important;
-  }
-  .site-subtitle {
-    letter-spacing: 0px !important;
-    padding-bottom: 0px !important;
-  }
-  .site-meta {
-    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
-  }
-  .menu {
-    margin: 0px 10px !important;
-  }
-  .menu-item {
-    margin: 0px 10px !important;
   }
 }
