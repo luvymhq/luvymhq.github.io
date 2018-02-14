@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #539571;
+  background: #d5a75b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2425,9 +2425,6 @@ a.search-result {
 .site-uv::after {
   content: "|";
   padding-left: 10px;
-}
-.use-motion .post {
-  opacity: 0;
 }
 .page-archive .archive-page-counter {
   position: relative;
