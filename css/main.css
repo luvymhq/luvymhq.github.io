@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a408a4;
+  background: #066ea4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2724,13 +2724,20 @@ embed {
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
 }
+@media screen and (max-width: 767px) {
+  body {
+    background-image: url("/images/mp-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+  }
+}
 body {
   background-image: url("/images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
 }
 @media (min-width: 767px) {
   .container {
