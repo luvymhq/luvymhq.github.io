@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff75c7;
+  background: #754b32;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2724,7 +2724,7 @@ embed {
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
 }
-@media screen and (min-width: 767px) {
+@media (min-width: 767px) {
   body {
     background-image: url("/images/background.jpg");
     background-repeat: no-repeat;
@@ -2734,6 +2734,9 @@ embed {
   #footer a {
     color: #eee;
   }
+}
+.container {
+  background-color: rgba(255,255,255,0.5);
 }
 .post {
   margin-top: 2px;
