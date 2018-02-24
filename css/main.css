@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e70603;
+  background: #034005;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2901,6 +2901,24 @@ embed {
   background-color: #fff;
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
   margin: 80px 0px 40px 0px;
+}
+a {
+  color: #5073b8;
+  border-bottom-color: #5073b8;
+}
+a:hover {
+  color: #a166ab;
+  border-bottom-color: #a166ab;
+}
+.post-body a {
+  color: #5073b8;
+  border-bottom: none;
+  text-decoration: none;
+}
+.post-body a:hover {
+  color: #a166ab;
+  border-bottom: none;
+  text-decoration: underline;
 }
 .post-toc ol {
   padding: 0px 10px 5px 10px;
