@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a47871;
+  background: #ecff26;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2762,7 +2762,6 @@ embed {
 .header {
   background: url("/images/banner.jpg");
   background-size: 100%;
-  background-repeat: no-repeat;
 }
 .site-meta {
   float: none;
