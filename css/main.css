@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #05ffff;
+  background: #faff54;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3284,4 +3284,10 @@ span#inline-toc {
   padding: 0.05em 0.4em;
   margin: 2px 5px 2px 0px;
   line-height: 1.5;
+}
+h1 {
+  color: #666;
+}
+.posts-expand .post-tags a {
+  text-decoration: none;
 }
