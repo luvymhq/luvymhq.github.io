@@ -1905,7 +1905,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7ff16;
+  background: #e020ec;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2831,6 +2831,9 @@ embed {
   margin-bottom: 0px;
   color: #666;
 }
+img.img-topic {
+  width: 100%;
+}
 .post-button .btn {
   color: #fff !important;
   background-color: #686868;
@@ -2847,6 +2850,7 @@ embed {
   font-size: 15px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   background-color: #fff;
+  text-decoration: none;
 }
 .posts-expand .post-eof {
   margin: 0px;
@@ -2896,6 +2900,24 @@ embed {
 }
 .posts-expand .post-meta a {
   border-bottom: 0px solid #999;
+}
+.posts-expand .post-body img {
+  border: none;
+  padding: 0px;
+}
+.post-gallery .post-gallery-img img {
+  padding: 3px;
+}
+p.description {
+  text-align: center;
+  font-size: 14px;
+  font-style: italic;
+  color: #666;
+  margin-top: 30px;
+}
+code.description {
+  padding: 1px 1px 1px 1px;
+  margin: 0px 1px 0px 4px;
 }
 .comments {
   background-color: #fff;
