@@ -1790,7 +1790,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7e7a0d;
+  background: #12dbff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2743,6 +2743,9 @@ img.img-topic {
   border-bottom: 2px solid #666;
   display: inline-block;
   text-decoration: none;
+}
+hr {
+  margin: 0px 0px 10px 0px;
 }
 .posts-expand .post-eof {
   margin: 0px;
