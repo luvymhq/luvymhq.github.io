@@ -1895,7 +1895,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffc4ff;
+  background: #daffab;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2851,6 +2851,10 @@ img.img-topic {
 }
 hr {
   margin: 0px 0px 10px 0px;
+}
+.posts-expand .post-title {
+  font-size: 26px;
+  font-weight: 700;
 }
 .posts-expand .post-eof {
   margin: 0px;
