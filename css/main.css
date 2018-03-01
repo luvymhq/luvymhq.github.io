@@ -1790,7 +1790,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f44087;
+  background: #9854ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2624,7 +2624,6 @@ embed {
     background-image: url("/images/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
   }
 }
 @media (min-width: 1023px) {
