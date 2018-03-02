@@ -1895,7 +1895,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f51dfb;
+  background: #37f6ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2928,6 +2928,27 @@ code.description {
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
   margin: 80px 0px 40px 0px;
 }
+.posts-expand .post-tags a {
+  border-bottom: none;
+  margin-right: 0px;
+  font-size: 13px;
+  padding: 0px 5px;
+  border-radius: 3px;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0s;
+}
+.posts-expand .post-tags a:hover {
+  background: #eee;
+}
+.post-nav-item a {
+  color: #5073b8;
+  font-weight: bold;
+}
+.post-nav-item a:hover {
+  color: #a166ab;
+  font-weight: bold;
+}
 a {
   color: #5073b8;
   border-bottom-color: #5073b8;
@@ -2967,10 +2988,20 @@ a:hover {
 .links-of-blogroll-title {
   margin-bottom: 10px;
   margin-top: 15px;
-  color: rgba(7,179,155,0.75);
+  color: #5d898e;
   margin-left: 6px;
   font-size: 15px;
   font-weight: bold;
+}
+.links-of-author a::before {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 3px;
+  content: " ";
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #5d898e;
 }
 .sidebar {
   box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.75);
@@ -3003,7 +3034,7 @@ a:hover {
 }
 .links-of-author {
   margin-top: 30px;
-  margin-bottom: 58px;
+  margin-bottom: 20px;
 }
 .sidebar a {
   color: #5e9fa3;
@@ -3060,9 +3091,9 @@ a:hover {
 }
 #days {
   display: block;
-  color: #07b39b;
+  color: #55d9b3;
   font-size: 13px;
-  margin-top: 15px;
+  margin-top: 2px;
 }
 .posts-collapse {
   margin: 50px 0px;
