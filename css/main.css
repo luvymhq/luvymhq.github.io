@@ -2010,7 +2010,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe4f0;
+  background: #e84259;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2856,6 +2856,9 @@ embed {
   .container {
     background-color: rgba(0,0,0,0.4);
   }
+}
+.posts-expand .post-title-link {
+  line-height: 1.3;
 }
 .post {
   margin-top: 2px;
