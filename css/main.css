@@ -1895,7 +1895,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d53ce2;
+  background: #7754ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2754,11 +2754,13 @@ embed {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 9999;
+  z-index: 99999;
   display: none;
   width: 0;
-  height: 2px;
-  background: #6d6d6d;
+  height: 3px;
+  background: #37c6c0;
+  transition-duration: 0.7s, 0.7s;
+  transition-property: width, background;
 }
 .header {
   background: 0 0;
