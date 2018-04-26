@@ -2161,7 +2161,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f28ce4;
+  background: #aa3d1b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3530,7 +3530,7 @@ pre .deletion {
 }
 @media (max-width: 1023px) {
   .container {
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(0,0,0,0);
   }
   .sidebar {
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.9);
