@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luvymhq.github.io/"/>
-  <updated>2018-04-27T09:11:22.422Z</updated>
+  <updated>2018-04-28T01:26:08.495Z</updated>
   <id>https://luvymhq.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://luvymhq.github.io/posts/0.html"/>
+    <id>https://luvymhq.github.io/posts/0.html</id>
+    <published>2018-04-28T01:24:36.963Z</published>
+    <updated>2018-04-28T01:26:08.495Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>向死而生</title>
@@ -34,9 +55,9 @@
       <category term="杂七杂八" scheme="https://luvymhq.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
     
-      <category term="教育" scheme="https://luvymhq.github.io/tags/%E6%95%99%E8%82%B2/"/>
-    
       <category term="死亡" scheme="https://luvymhq.github.io/tags/%E6%AD%BB%E4%BA%A1/"/>
+    
+      <category term="教育" scheme="https://luvymhq.github.io/tags/%E6%95%99%E8%82%B2/"/>
     
   </entry>
   
@@ -84,11 +105,11 @@
       <category term="思维碎片" scheme="https://luvymhq.github.io/categories/%E6%80%9D%E7%BB%B4%E7%A2%8E%E7%89%87/"/>
     
     
+      <category term="教育" scheme="https://luvymhq.github.io/tags/%E6%95%99%E8%82%B2/"/>
+    
       <category term="认知" scheme="https://luvymhq.github.io/tags/%E8%AE%A4%E7%9F%A5/"/>
     
       <category term="跨界" scheme="https://luvymhq.github.io/tags/%E8%B7%A8%E7%95%8C/"/>
-    
-      <category term="教育" scheme="https://luvymhq.github.io/tags/%E6%95%99%E8%82%B2/"/>
     
   </entry>
   
