@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luvymhq.github.io/"/>
-  <updated>2018-04-28T01:26:08.495Z</updated>
+  <updated>2018-04-27T09:11:22.422Z</updated>
   <id>https://luvymhq.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://luvymhq.github.io/posts/0.html"/>
-    <id>https://luvymhq.github.io/posts/0.html</id>
-    <published>2018-04-28T01:24:36.963Z</published>
-    <updated>2018-04-28T01:26:08.495Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>向死而生</title>
@@ -58,6 +37,31 @@
       <category term="死亡" scheme="https://luvymhq.github.io/tags/%E6%AD%BB%E4%BA%A1/"/>
     
       <category term="教育" scheme="https://luvymhq.github.io/tags/%E6%95%99%E8%82%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://luvymhq.github.io/posts/d87f7e0c.html"/>
+    <id>https://luvymhq.github.io/posts/d87f7e0c.html</id>
+    <published>2018-04-23T07:54:22.000Z</published>
+    <updated>2018-04-28T01:29:53.804Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>testfdsfs</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="杂七杂八" scheme="https://luvymhq.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+    
+    
+      <category term="阅读" scheme="https://luvymhq.github.io/tags/%E9%98%85%E8%AF%BB/"/>
     
   </entry>
   
