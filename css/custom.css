@@ -194,3 +194,8 @@ div#category{
 .footer_custom_text {
     color: #00c4b6;
 }
+
+/*边距*/
+.layout {
+    max-width: 1300px;
+}
