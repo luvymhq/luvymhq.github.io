@@ -40,10 +40,10 @@ div#category{
   background: rgba(255, 255, 255, 0.9);
 }
 #aside-content .card-widget {
-    background: rgba(255, 255, 255, 0.8) !important;
+    background: rgba(255, 255, 255, 0.9) !important;
 }
 #recent-posts > .recent-post-item {
-    background: rgba(255, 255, 255, 0.8) !important;
+    background: rgba(255, 255, 255, 0.9) !important;
 }
 
 #hidden_element{
@@ -120,12 +120,6 @@ div#category{
 }
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
   left:0!important
-}
-
-/* 自定义字体 */
-@font-face {
-    font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
 
 
